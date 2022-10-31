@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @Airor4
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 Learning:
+  - BASH scripting
+  - data structures and algorithms
+  - docker
+  - rust   
 - 📫 You can reach me at airor@bmal.net
