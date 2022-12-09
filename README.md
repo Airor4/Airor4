@@ -3,7 +3,7 @@
 - 🌱 Learning:
   - BASH scripting
   - data structures and algorithms -> system design
-  - design patterns
+  - OOP design patterns
   - docker
   - podman / minikube / kubernetes
   - rust
