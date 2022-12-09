@@ -7,9 +7,9 @@
   - docker
   - podman / minikube / kubernetes
   - rust
-  - networking (cloud, docker, web (udp, tcp, websockets, etc)
+  - networking (cloud, docker, web, udp, tcp, websockets, dns etc)
   - cloud
-  - async python, multi threading, and multi processing
+  - async python, multi threading, multi processing, celery
   - Ansible
   - Api Design
 - 📫 You can reach me at airor@bmal.net
