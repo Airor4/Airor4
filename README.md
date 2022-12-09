@@ -7,7 +7,7 @@
   - docker
   - podman / minikube / kubernetes
   - rust
-  - networking
+  - networking (cloud, docker, web (udp, tcp, websockets, etc)
   - cloud
   - async python, multi threading, and multi processing
   - Ansible
