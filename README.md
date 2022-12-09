@@ -5,6 +5,7 @@
   - data structures and algorithms
   - design patterns
   - docker
+  - podman / minikube / kubernetes
   - rust
   - networking
   - cloud
