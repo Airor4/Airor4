@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development
 - 🌱 Learning:
   - BASH scripting
-  - data structures and algorithms
+  - data structures and algorithms -> system design
   - design patterns
   - docker
   - podman / minikube / kubernetes
