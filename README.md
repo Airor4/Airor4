@@ -9,6 +9,9 @@
   - rust
   - networking
   - cloud
+  - async python, multi threading, and multi processing
+  - Ansible
+  - Api Design
 - 📫 You can reach me at airor@bmal.net
 
 Coolest projects:
